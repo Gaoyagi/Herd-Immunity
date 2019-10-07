@@ -28,7 +28,7 @@ class Person(object):
     def resolve_infection(self):
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
-        killNum = random.randint(0,1)
+        killNum = random.uniform(0,1)
         if killNum > self.infection.mortality_rate:
             self.is_vaccinated = True
             return True
