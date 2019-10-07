@@ -35,19 +35,23 @@ class Simulation(object):
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
         self.file_name = "{}simulation_pop_{}_vp_{}_infected_{}.txt".format(virus.name, pop_size, vacc_percentage, initial_infected)
-        self.newly_infected = []
         self.logger = Logger(self.file_name)
+
         self.pop_size = pop_size # Int
-        self.virus = virus # Virus object
         self.initial_infected = initial_infected # Int
         self.total_infected = 0 # Int
         self.current_infected = 0 # Int
-        self.vacc_percentage = vacc_percentage # float between 0 and 1
-        self.vacc = vacc_percentage*pop_size
         self.total_dead = 0 # Int
+        self.next_person_id = 0 # Int
+        self.vacc = int(vacc_percentage*pop_size) #Int
+
+        self.vacc_percentage = vacc_percentage # float between 0 and 1
+        
+        self.virus = virus # Virus object
+        
+        self.newly_infected = []    #list of id's of newly infected
         self.population = self._create_population(pop_size) # List of Person objects
         
-        self.next_person_id = 0 # Int
         
         
 
@@ -70,12 +74,20 @@ class Simulation(object):
             people.append(People(id, False, virus))
             id+=1
         for x in range(init_infected):
-            people.append(People(id, False, virus))
+            people.append(People(id, True))
+            id+=1
+        for x in range(pop_size):
+            people.append(id)
             id+=1
         return people
 
+    #gets the current percent of vaccinated people
+    #args: none
+    #return: none
     def convertPercent(self):
         self.vacc_percentage = self.vacc/self.pop_size
+
+
     #checks if the simulation should end
     #end if everyone is dead or vaccinated
     #args: none
