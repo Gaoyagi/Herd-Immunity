@@ -98,8 +98,8 @@ class Logger(object):
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
         log = open(self.file_name, 'a')
-        log.write(f"Time step {time_step_number} ended, beginning time step {time_step_number + 1}\n")
         log.write(f"{currInfect} were infected with {infect} overall were infected \n")
         log.write(f"{currDeath} were killed with {death} total dead \n")
+        log.write(f"Time step {time_step_number} ended, beginning time step {time_step_number + 1}\n\n")
         log.close()
         

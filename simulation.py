@@ -30,6 +30,9 @@ class Simulation(object):
         #for files
         self.file_name = "{}simulation_pop_{}_vp_{}_infected_{}.txt".format(virus.name, pop_size, vacc_percentage, initial_infected)
         self.logger = Logger(self.file_name)
+ 
+         #class objects
+        self.virus = virus  #Virus object
 
         #ints
         self.pop_size = pop_size 
@@ -43,9 +46,6 @@ class Simulation(object):
        
         #floats
         self.vacc_percentage = vacc_percentage # float between 0 and 1
-        
-        #class objects
-        self.virus = virus  #Virus object
         
         #lists
         self.newly_infected = []    #list of id's of newly infected
@@ -95,10 +95,16 @@ class Simulation(object):
         self.vacc_percentage = self.convertPercent()
         if self.vacc_percentage == 1:
             return False
-        elif self.total_dead == self.pop_size:
+        if self.total_dead == self.pop_size:
             return False
-        else:
-            return True 
+
+        stillSick = False
+        for person in self.population:
+            if person.infection != None:
+                stillSick = True
+        if not stillSick:
+            return False
+        return True
 
     #runs simualtion until simulation_should_continue says stop
     #args: none
@@ -196,7 +202,6 @@ class Simulation(object):
         for person in self.population:
             if person._id in self.newly_infected:
                 person.infection = self.virus
-                self.total_infected+=1
                 self.newly_infected.remove(person._id)
 
 
@@ -217,4 +222,8 @@ if __name__ == "__main__":
     virus = Virus(virus_name, repro_num, mortality_rate)
     sim = Simulation(pop_size, vacc_percentage, virus, 4)
 
-    sim.run()
+    sim.run() 
+
+def test_create_population():
+    virus = Virus("memes", 0.69, 0.42)
+    sim = Simulation(10,)

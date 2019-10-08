@@ -1,0 +1,1015 @@
+population size: 50, vaccinated percent: 0.9%, virus: Ebola, reprocution rate:0.7%, mortality rate: 0.25
+0 didn't infect 40 because they're vaccinated 
+0 didn't infect 47 because they're vaccinated 
+0 didn't infect 14 because they're vaccinated 
+0 didn't infect 6 because they're already sick 
+0 didn't infect 34 because they're vaccinated 
+0 didn't infect 27 because they're vaccinated 
+0 didn't infect 5 because they're already sick 
+0 didn't infect 32 because they're vaccinated 
+0 didn't infect 35 because they're vaccinated 
+0 didn't infect 41 because they're vaccinated 
+0 didn't infect 26 because they're vaccinated 
+0 didn't infect 37 because they're vaccinated 
+0 didn't infect 0 because they're already sick 
+0 didn't infect 10 because they're vaccinated 
+0 didn't infect 21 because they're vaccinated 
+0 didn't infect 13 because they're vaccinated 
+0 didn't infect 21 because they're vaccinated 
+0 didn't infect 24 because they're vaccinated 
+0 didn't infect 54 because they're vaccinated 
+0 didn't infect 16 because they're vaccinated 
+0 didn't infect 46 because they're vaccinated 
+0 didn't infect 7 because they're already sick 
+0 didn't infect 24 because they're vaccinated 
+0 didn't infect 18 because they're vaccinated 
+0 didn't infect 39 because they're vaccinated 
+0 didn't infect 23 because they're vaccinated 
+0 didn't infect 45 because they're vaccinated 
+0 didn't infect 42 because they're vaccinated 
+0 didn't infect 18 because they're vaccinated 
+0 didn't infect 54 because they're vaccinated 
+0 didn't infect 6 because they're already sick 
+0 didn't infect 29 because they're vaccinated 
+0 didn't infect 23 because they're vaccinated 
+0 didn't infect 22 because they're vaccinated 
+0 didn't infect 17 because they're vaccinated 
+0 didn't infect 43 because they're vaccinated 
+0 didn't infect 38 because they're vaccinated 
+0 didn't infect 34 because they're vaccinated 
+0 didn't infect 10 because they're vaccinated 
+0 didn't infect 17 because they're vaccinated 
+0 didn't infect 40 because they're vaccinated 
+0 didn't infect 14 because they're vaccinated 
+0 didn't infect 53 because they're vaccinated 
+0 didn't infect 3 because they're already sick 
+0 didn't infect 2 because they're already sick 
+0 didn't infect 25 because they're vaccinated 
+0 didn't infect 13 because they're vaccinated 
+0 didn't infect 36 because they're vaccinated 
+0 didn't infect 20 because they're vaccinated 
+0 didn't infect 31 because they're vaccinated 
+0 didn't infect 41 because they're vaccinated 
+0 didn't infect 16 because they're vaccinated 
+0 didn't infect 47 because they're vaccinated 
+0 didn't infect 16 because they're vaccinated 
+0 didn't infect 27 because they're vaccinated 
+0 didn't infect 25 because they're vaccinated 
+0 didn't infect 8 because they're already sick 
+0 didn't infect 5 because they're already sick 
+0 didn't infect 7 because they're already sick 
+0 didn't infect 10 because they're vaccinated 
+0 didn't infect 27 because they're vaccinated 
+0 didn't infect 24 because they're vaccinated 
+0 didn't infect 29 because they're vaccinated 
+0 didn't infect 35 because they're vaccinated 
+0 didn't infect 0 because they're already sick 
+0 didn't infect 7 because they're already sick 
+0 didn't infect 34 because they're vaccinated 
+0 didn't infect 49 because they're vaccinated 
+0 didn't infect 7 because they're already sick 
+0 didn't infect 10 because they're vaccinated 
+0 didn't infect 46 because they're vaccinated 
+0 didn't infect 16 because they're vaccinated 
+0 didn't infect 48 because they're vaccinated 
+0 didn't infect 6 because they're already sick 
+0 didn't infect 19 because they're vaccinated 
+0 didn't infect 32 because they're vaccinated 
+0 didn't infect 9 because they're already sick 
+0 didn't infect 10 because they're vaccinated 
+0 didn't infect 49 because they're vaccinated 
+0 didn't infect 0 because they're already sick 
+0 didn't infect 31 because they're vaccinated 
+0 didn't infect 23 because they're vaccinated 
+0 didn't infect 53 because they're vaccinated 
+0 didn't infect 15 because they're vaccinated 
+0 didn't infect 36 because they're vaccinated 
+0 didn't infect 5 because they're already sick 
+0 didn't infect 52 because they're vaccinated 
+0 didn't infect 48 because they're vaccinated 
+0 didn't infect 8 because they're already sick 
+0 didn't infect 30 because they're vaccinated 
+0 didn't infect 10 because they're vaccinated 
+0 didn't infect 38 because they're vaccinated 
+0 didn't infect 13 because they're vaccinated 
+0 didn't infect 48 because they're vaccinated 
+0 didn't infect 12 because they're vaccinated 
+0 didn't infect 25 because they're vaccinated 
+0 didn't infect 41 because they're vaccinated 
+0 didn't infect 33 because they're vaccinated 
+0 didn't infect 15 because they're vaccinated 
+0 didn't infect 21 because they're vaccinated 
+1 didn't infect 35 because they're vaccinated 
+1 didn't infect 14 because they're vaccinated 
+1 didn't infect 45 because they're vaccinated 
+1 didn't infect 14 because they're vaccinated 
+1 didn't infect 2 because they're already sick 
+1 didn't infect 4 because they're already sick 
+1 didn't infect 17 because they're vaccinated 
+1 didn't infect 13 because they're vaccinated 
+1 didn't infect 46 because they're vaccinated 
+1 didn't infect 36 because they're vaccinated 
+1 didn't infect 15 because they're vaccinated 
+1 didn't infect 51 because they're vaccinated 
+1 didn't infect 6 because they're already sick 
+1 didn't infect 27 because they're vaccinated 
+1 didn't infect 26 because they're vaccinated 
+1 didn't infect 46 because they're vaccinated 
+1 didn't infect 41 because they're vaccinated 
+1 didn't infect 6 because they're already sick 
+1 didn't infect 46 because they're vaccinated 
+1 didn't infect 6 because they're already sick 
+1 didn't infect 12 because they're vaccinated 
+1 didn't infect 8 because they're already sick 
+1 didn't infect 17 because they're vaccinated 
+1 didn't infect 4 because they're already sick 
+1 didn't infect 54 because they're vaccinated 
+1 didn't infect 3 because they're already sick 
+1 didn't infect 34 because they're vaccinated 
+1 didn't infect 5 because they're already sick 
+1 didn't infect 54 because they're vaccinated 
+1 didn't infect 26 because they're vaccinated 
+1 didn't infect 13 because they're vaccinated 
+1 didn't infect 3 because they're already sick 
+1 didn't infect 0 because they're already sick 
+1 didn't infect 16 because they're vaccinated 
+1 didn't infect 50 because they're vaccinated 
+1 didn't infect 27 because they're vaccinated 
+1 didn't infect 46 because they're vaccinated 
+1 didn't infect 35 because they're vaccinated 
+1 didn't infect 31 because they're vaccinated 
+1 didn't infect 18 because they're vaccinated 
+1 didn't infect 3 because they're already sick 
+1 didn't infect 34 because they're vaccinated 
+1 didn't infect 20 because they're vaccinated 
+1 didn't infect 37 because they're vaccinated 
+1 didn't infect 54 because they're vaccinated 
+1 didn't infect 3 because they're already sick 
+1 didn't infect 5 because they're already sick 
+1 didn't infect 4 because they're already sick 
+1 didn't infect 43 because they're vaccinated 
+1 didn't infect 25 because they're vaccinated 
+1 didn't infect 36 because they're vaccinated 
+1 didn't infect 38 because they're vaccinated 
+1 didn't infect 5 because they're already sick 
+1 didn't infect 37 because they're vaccinated 
+1 didn't infect 20 because they're vaccinated 
+1 didn't infect 13 because they're vaccinated 
+1 didn't infect 20 because they're vaccinated 
+1 didn't infect 25 because they're vaccinated 
+1 didn't infect 41 because they're vaccinated 
+1 didn't infect 20 because they're vaccinated 
+1 didn't infect 4 because they're already sick 
+1 didn't infect 39 because they're vaccinated 
+1 didn't infect 6 because they're already sick 
+1 didn't infect 13 because they're vaccinated 
+1 didn't infect 8 because they're already sick 
+1 didn't infect 4 because they're already sick 
+1 didn't infect 23 because they're vaccinated 
+1 didn't infect 28 because they're vaccinated 
+1 didn't infect 45 because they're vaccinated 
+1 didn't infect 51 because they're vaccinated 
+1 didn't infect 0 because they're already sick 
+1 didn't infect 35 because they're vaccinated 
+1 didn't infect 42 because they're vaccinated 
+1 didn't infect 8 because they're already sick 
+1 didn't infect 6 because they're already sick 
+1 didn't infect 9 because they're already sick 
+1 didn't infect 38 because they're vaccinated 
+1 didn't infect 21 because they're vaccinated 
+1 didn't infect 40 because they're vaccinated 
+1 didn't infect 32 because they're vaccinated 
+1 didn't infect 54 because they're vaccinated 
+1 didn't infect 40 because they're vaccinated 
+1 didn't infect 17 because they're vaccinated 
+1 didn't infect 21 because they're vaccinated 
+1 didn't infect 40 because they're vaccinated 
+1 didn't infect 10 because they're vaccinated 
+1 didn't infect 35 because they're vaccinated 
+1 didn't infect 35 because they're vaccinated 
+1 didn't infect 4 because they're already sick 
+1 didn't infect 44 because they're vaccinated 
+1 didn't infect 34 because they're vaccinated 
+1 didn't infect 23 because they're vaccinated 
+1 didn't infect 9 because they're already sick 
+1 didn't infect 2 because they're already sick 
+1 didn't infect 50 because they're vaccinated 
+1 didn't infect 2 because they're already sick 
+1 didn't infect 13 because they're vaccinated 
+1 didn't infect 42 because they're vaccinated 
+1 didn't infect 49 because they're vaccinated 
+1 didn't infect 26 because they're vaccinated 
+2 didn't infect 47 because they're vaccinated 
+2 didn't infect 15 because they're vaccinated 
+2 didn't infect 51 because they're vaccinated 
+2 didn't infect 26 because they're vaccinated 
+2 didn't infect 47 because they're vaccinated 
+2 didn't infect 50 because they're vaccinated 
+2 didn't infect 51 because they're vaccinated 
+2 didn't infect 47 because they're vaccinated 
+2 didn't infect 17 because they're vaccinated 
+2 didn't infect 44 because they're vaccinated 
+2 didn't infect 2 because they're already sick 
+2 didn't infect 14 because they're vaccinated 
+2 didn't infect 29 because they're vaccinated 
+2 didn't infect 52 because they're vaccinated 
+2 didn't infect 14 because they're vaccinated 
+2 didn't infect 42 because they're vaccinated 
+2 didn't infect 21 because they're vaccinated 
+2 didn't infect 4 because they're already sick 
+2 didn't infect 17 because they're vaccinated 
+2 didn't infect 32 because they're vaccinated 
+2 didn't infect 53 because they're vaccinated 
+2 didn't infect 1 because they're already sick 
+2 didn't infect 16 because they're vaccinated 
+2 didn't infect 16 because they're vaccinated 
+2 didn't infect 38 because they're vaccinated 
+2 didn't infect 46 because they're vaccinated 
+2 didn't infect 27 because they're vaccinated 
+2 didn't infect 32 because they're vaccinated 
+2 didn't infect 36 because they're vaccinated 
+2 didn't infect 2 because they're already sick 
+2 didn't infect 0 because they're already sick 
+2 didn't infect 51 because they're vaccinated 
+2 didn't infect 46 because they're vaccinated 
+2 didn't infect 47 because they're vaccinated 
+2 didn't infect 23 because they're vaccinated 
+2 didn't infect 42 because they're vaccinated 
+2 didn't infect 39 because they're vaccinated 
+2 didn't infect 54 because they're vaccinated 
+2 didn't infect 19 because they're vaccinated 
+2 didn't infect 42 because they're vaccinated 
+2 didn't infect 25 because they're vaccinated 
+2 didn't infect 35 because they're vaccinated 
+2 didn't infect 26 because they're vaccinated 
+2 didn't infect 24 because they're vaccinated 
+2 didn't infect 11 because they're vaccinated 
+2 didn't infect 19 because they're vaccinated 
+2 didn't infect 53 because they're vaccinated 
+2 didn't infect 18 because they're vaccinated 
+2 didn't infect 50 because they're vaccinated 
+2 didn't infect 41 because they're vaccinated 
+2 didn't infect 28 because they're vaccinated 
+2 didn't infect 13 because they're vaccinated 
+2 didn't infect 50 because they're vaccinated 
+2 didn't infect 50 because they're vaccinated 
+2 didn't infect 42 because they're vaccinated 
+2 didn't infect 32 because they're vaccinated 
+2 didn't infect 39 because they're vaccinated 
+2 didn't infect 52 because they're vaccinated 
+2 didn't infect 15 because they're vaccinated 
+2 didn't infect 14 because they're vaccinated 
+2 didn't infect 9 because they're already sick 
+2 didn't infect 15 because they're vaccinated 
+2 didn't infect 39 because they're vaccinated 
+2 didn't infect 4 because they're already sick 
+2 didn't infect 40 because they're vaccinated 
+2 didn't infect 45 because they're vaccinated 
+2 didn't infect 31 because they're vaccinated 
+2 didn't infect 9 because they're already sick 
+2 didn't infect 0 because they're already sick 
+2 didn't infect 49 because they're vaccinated 
+2 didn't infect 49 because they're vaccinated 
+2 didn't infect 11 because they're vaccinated 
+2 didn't infect 44 because they're vaccinated 
+2 didn't infect 3 because they're already sick 
+2 didn't infect 54 because they're vaccinated 
+2 didn't infect 8 because they're already sick 
+2 didn't infect 42 because they're vaccinated 
+2 didn't infect 35 because they're vaccinated 
+2 didn't infect 48 because they're vaccinated 
+2 didn't infect 39 because they're vaccinated 
+2 didn't infect 32 because they're vaccinated 
+2 didn't infect 35 because they're vaccinated 
+2 didn't infect 10 because they're vaccinated 
+2 didn't infect 30 because they're vaccinated 
+2 didn't infect 48 because they're vaccinated 
+2 didn't infect 40 because they're vaccinated 
+2 didn't infect 49 because they're vaccinated 
+2 didn't infect 40 because they're vaccinated 
+2 didn't infect 28 because they're vaccinated 
+2 didn't infect 18 because they're vaccinated 
+2 didn't infect 21 because they're vaccinated 
+2 didn't infect 34 because they're vaccinated 
+2 didn't infect 9 because they're already sick 
+2 didn't infect 44 because they're vaccinated 
+2 didn't infect 13 because they're vaccinated 
+2 didn't infect 26 because they're vaccinated 
+2 didn't infect 29 because they're vaccinated 
+2 didn't infect 13 because they're vaccinated 
+2 didn't infect 24 because they're vaccinated 
+2 didn't infect 37 because they're vaccinated 
+3 didn't infect 1 because they're already sick 
+3 didn't infect 48 because they're vaccinated 
+3 didn't infect 30 because they're vaccinated 
+3 didn't infect 22 because they're vaccinated 
+3 didn't infect 24 because they're vaccinated 
+3 didn't infect 53 because they're vaccinated 
+3 didn't infect 47 because they're vaccinated 
+3 didn't infect 51 because they're vaccinated 
+3 didn't infect 14 because they're vaccinated 
+3 didn't infect 17 because they're vaccinated 
+3 didn't infect 1 because they're already sick 
+3 didn't infect 42 because they're vaccinated 
+3 didn't infect 25 because they're vaccinated 
+3 didn't infect 53 because they're vaccinated 
+3 didn't infect 8 because they're already sick 
+3 didn't infect 34 because they're vaccinated 
+3 didn't infect 25 because they're vaccinated 
+3 didn't infect 42 because they're vaccinated 
+3 didn't infect 41 because they're vaccinated 
+3 didn't infect 29 because they're vaccinated 
+3 didn't infect 16 because they're vaccinated 
+3 didn't infect 13 because they're vaccinated 
+3 didn't infect 21 because they're vaccinated 
+3 didn't infect 24 because they're vaccinated 
+3 didn't infect 53 because they're vaccinated 
+3 didn't infect 53 because they're vaccinated 
+3 didn't infect 1 because they're already sick 
+3 didn't infect 3 because they're already sick 
+3 didn't infect 22 because they're vaccinated 
+3 didn't infect 4 because they're already sick 
+3 didn't infect 41 because they're vaccinated 
+3 didn't infect 1 because they're already sick 
+3 didn't infect 12 because they're vaccinated 
+3 didn't infect 39 because they're vaccinated 
+3 didn't infect 8 because they're already sick 
+3 didn't infect 7 because they're already sick 
+3 didn't infect 13 because they're vaccinated 
+3 didn't infect 16 because they're vaccinated 
+3 didn't infect 10 because they're vaccinated 
+3 didn't infect 47 because they're vaccinated 
+3 didn't infect 49 because they're vaccinated 
+3 didn't infect 19 because they're vaccinated 
+3 didn't infect 1 because they're already sick 
+3 didn't infect 36 because they're vaccinated 
+3 didn't infect 24 because they're vaccinated 
+3 didn't infect 45 because they're vaccinated 
+3 didn't infect 37 because they're vaccinated 
+3 didn't infect 40 because they're vaccinated 
+3 didn't infect 44 because they're vaccinated 
+3 didn't infect 54 because they're vaccinated 
+3 didn't infect 51 because they're vaccinated 
+3 didn't infect 36 because they're vaccinated 
+3 didn't infect 22 because they're vaccinated 
+3 didn't infect 42 because they're vaccinated 
+3 didn't infect 32 because they're vaccinated 
+3 didn't infect 0 because they're already sick 
+3 didn't infect 52 because they're vaccinated 
+3 didn't infect 27 because they're vaccinated 
+3 didn't infect 40 because they're vaccinated 
+3 didn't infect 29 because they're vaccinated 
+3 didn't infect 27 because they're vaccinated 
+3 didn't infect 33 because they're vaccinated 
+3 didn't infect 17 because they're vaccinated 
+3 didn't infect 34 because they're vaccinated 
+3 didn't infect 29 because they're vaccinated 
+3 didn't infect 46 because they're vaccinated 
+3 didn't infect 20 because they're vaccinated 
+3 didn't infect 53 because they're vaccinated 
+3 didn't infect 17 because they're vaccinated 
+3 didn't infect 15 because they're vaccinated 
+3 didn't infect 36 because they're vaccinated 
+3 didn't infect 24 because they're vaccinated 
+3 didn't infect 31 because they're vaccinated 
+3 didn't infect 11 because they're vaccinated 
+3 didn't infect 22 because they're vaccinated 
+3 didn't infect 21 because they're vaccinated 
+3 didn't infect 38 because they're vaccinated 
+3 didn't infect 17 because they're vaccinated 
+3 didn't infect 33 because they're vaccinated 
+3 didn't infect 5 because they're already sick 
+3 didn't infect 26 because they're vaccinated 
+3 didn't infect 48 because they're vaccinated 
+3 didn't infect 30 because they're vaccinated 
+3 didn't infect 31 because they're vaccinated 
+3 didn't infect 1 because they're already sick 
+3 didn't infect 14 because they're vaccinated 
+3 didn't infect 15 because they're vaccinated 
+3 didn't infect 37 because they're vaccinated 
+3 didn't infect 35 because they're vaccinated 
+3 didn't infect 27 because they're vaccinated 
+3 didn't infect 35 because they're vaccinated 
+3 didn't infect 44 because they're vaccinated 
+3 didn't infect 19 because they're vaccinated 
+3 didn't infect 7 because they're already sick 
+3 didn't infect 20 because they're vaccinated 
+3 didn't infect 34 because they're vaccinated 
+3 didn't infect 44 because they're vaccinated 
+3 didn't infect 13 because they're vaccinated 
+3 didn't infect 17 because they're vaccinated 
+3 didn't infect 48 because they're vaccinated 
+4 didn't infect 18 because they're vaccinated 
+4 didn't infect 53 because they're vaccinated 
+4 didn't infect 14 because they're vaccinated 
+4 didn't infect 19 because they're vaccinated 
+4 didn't infect 34 because they're vaccinated 
+4 didn't infect 2 because they're already sick 
+4 didn't infect 35 because they're vaccinated 
+4 didn't infect 8 because they're already sick 
+4 didn't infect 48 because they're vaccinated 
+4 didn't infect 0 because they're already sick 
+4 didn't infect 30 because they're vaccinated 
+4 didn't infect 21 because they're vaccinated 
+4 didn't infect 3 because they're already sick 
+4 didn't infect 30 because they're vaccinated 
+4 didn't infect 4 because they're already sick 
+4 didn't infect 4 because they're already sick 
+4 didn't infect 43 because they're vaccinated 
+4 didn't infect 9 because they're already sick 
+4 didn't infect 19 because they're vaccinated 
+4 didn't infect 15 because they're vaccinated 
+4 didn't infect 48 because they're vaccinated 
+4 didn't infect 38 because they're vaccinated 
+4 didn't infect 14 because they're vaccinated 
+4 didn't infect 24 because they're vaccinated 
+4 didn't infect 28 because they're vaccinated 
+4 didn't infect 37 because they're vaccinated 
+4 didn't infect 19 because they're vaccinated 
+4 didn't infect 3 because they're already sick 
+4 didn't infect 47 because they're vaccinated 
+4 didn't infect 48 because they're vaccinated 
+4 didn't infect 13 because they're vaccinated 
+4 didn't infect 5 because they're already sick 
+4 didn't infect 11 because they're vaccinated 
+4 didn't infect 10 because they're vaccinated 
+4 didn't infect 28 because they're vaccinated 
+4 didn't infect 30 because they're vaccinated 
+4 didn't infect 14 because they're vaccinated 
+4 didn't infect 18 because they're vaccinated 
+4 didn't infect 29 because they're vaccinated 
+4 didn't infect 14 because they're vaccinated 
+4 didn't infect 50 because they're vaccinated 
+4 didn't infect 37 because they're vaccinated 
+4 didn't infect 12 because they're vaccinated 
+4 didn't infect 34 because they're vaccinated 
+4 didn't infect 9 because they're already sick 
+4 didn't infect 52 because they're vaccinated 
+4 didn't infect 3 because they're already sick 
+4 didn't infect 19 because they're vaccinated 
+4 didn't infect 52 because they're vaccinated 
+4 didn't infect 18 because they're vaccinated 
+4 didn't infect 29 because they're vaccinated 
+4 didn't infect 44 because they're vaccinated 
+4 didn't infect 17 because they're vaccinated 
+4 didn't infect 31 because they're vaccinated 
+4 didn't infect 38 because they're vaccinated 
+4 didn't infect 27 because they're vaccinated 
+4 didn't infect 38 because they're vaccinated 
+4 didn't infect 5 because they're already sick 
+4 didn't infect 43 because they're vaccinated 
+4 didn't infect 36 because they're vaccinated 
+4 didn't infect 1 because they're already sick 
+4 didn't infect 43 because they're vaccinated 
+4 didn't infect 36 because they're vaccinated 
+4 didn't infect 48 because they're vaccinated 
+4 didn't infect 33 because they're vaccinated 
+4 didn't infect 17 because they're vaccinated 
+4 didn't infect 37 because they're vaccinated 
+4 didn't infect 52 because they're vaccinated 
+4 didn't infect 5 because they're already sick 
+4 didn't infect 26 because they're vaccinated 
+4 didn't infect 42 because they're vaccinated 
+4 didn't infect 10 because they're vaccinated 
+4 didn't infect 44 because they're vaccinated 
+4 didn't infect 42 because they're vaccinated 
+4 didn't infect 52 because they're vaccinated 
+4 didn't infect 2 because they're already sick 
+4 didn't infect 20 because they're vaccinated 
+4 didn't infect 7 because they're already sick 
+4 didn't infect 25 because they're vaccinated 
+4 didn't infect 52 because they're vaccinated 
+4 didn't infect 42 because they're vaccinated 
+4 didn't infect 29 because they're vaccinated 
+4 didn't infect 12 because they're vaccinated 
+4 didn't infect 39 because they're vaccinated 
+4 didn't infect 40 because they're vaccinated 
+4 didn't infect 3 because they're already sick 
+4 didn't infect 35 because they're vaccinated 
+4 didn't infect 18 because they're vaccinated 
+4 didn't infect 44 because they're vaccinated 
+4 didn't infect 1 because they're already sick 
+4 didn't infect 38 because they're vaccinated 
+4 didn't infect 45 because they're vaccinated 
+4 didn't infect 35 because they're vaccinated 
+4 didn't infect 26 because they're vaccinated 
+4 didn't infect 53 because they're vaccinated 
+4 didn't infect 29 because they're vaccinated 
+4 didn't infect 41 because they're vaccinated 
+4 didn't infect 31 because they're vaccinated 
+4 didn't infect 18 because they're vaccinated 
+4 didn't infect 17 because they're vaccinated 
+5 didn't infect 30 because they're vaccinated 
+5 didn't infect 15 because they're vaccinated 
+5 didn't infect 9 because they're already sick 
+5 didn't infect 38 because they're vaccinated 
+5 didn't infect 8 because they're already sick 
+5 didn't infect 17 because they're vaccinated 
+5 didn't infect 54 because they're vaccinated 
+5 didn't infect 50 because they're vaccinated 
+5 didn't infect 52 because they're vaccinated 
+5 didn't infect 46 because they're vaccinated 
+5 didn't infect 37 because they're vaccinated 
+5 didn't infect 42 because they're vaccinated 
+5 didn't infect 9 because they're already sick 
+5 didn't infect 30 because they're vaccinated 
+5 didn't infect 35 because they're vaccinated 
+5 didn't infect 24 because they're vaccinated 
+5 didn't infect 20 because they're vaccinated 
+5 didn't infect 44 because they're vaccinated 
+5 didn't infect 24 because they're vaccinated 
+5 didn't infect 49 because they're vaccinated 
+5 didn't infect 20 because they're vaccinated 
+5 didn't infect 45 because they're vaccinated 
+5 didn't infect 24 because they're vaccinated 
+5 didn't infect 42 because they're vaccinated 
+5 didn't infect 41 because they're vaccinated 
+5 didn't infect 31 because they're vaccinated 
+5 didn't infect 8 because they're already sick 
+5 didn't infect 37 because they're vaccinated 
+5 didn't infect 6 because they're already sick 
+5 didn't infect 28 because they're vaccinated 
+5 didn't infect 29 because they're vaccinated 
+5 didn't infect 9 because they're already sick 
+5 didn't infect 41 because they're vaccinated 
+5 didn't infect 4 because they're already sick 
+5 didn't infect 16 because they're vaccinated 
+5 didn't infect 44 because they're vaccinated 
+5 didn't infect 5 because they're already sick 
+5 didn't infect 54 because they're vaccinated 
+5 didn't infect 34 because they're vaccinated 
+5 didn't infect 20 because they're vaccinated 
+5 didn't infect 48 because they're vaccinated 
+5 didn't infect 34 because they're vaccinated 
+5 didn't infect 4 because they're already sick 
+5 didn't infect 43 because they're vaccinated 
+5 didn't infect 14 because they're vaccinated 
+5 didn't infect 27 because they're vaccinated 
+5 didn't infect 48 because they're vaccinated 
+5 didn't infect 6 because they're already sick 
+5 didn't infect 44 because they're vaccinated 
+5 didn't infect 1 because they're already sick 
+5 didn't infect 50 because they're vaccinated 
+5 didn't infect 22 because they're vaccinated 
+5 didn't infect 9 because they're already sick 
+5 didn't infect 26 because they're vaccinated 
+5 didn't infect 50 because they're vaccinated 
+5 didn't infect 11 because they're vaccinated 
+5 didn't infect 24 because they're vaccinated 
+5 didn't infect 15 because they're vaccinated 
+5 didn't infect 37 because they're vaccinated 
+5 didn't infect 29 because they're vaccinated 
+5 didn't infect 29 because they're vaccinated 
+5 didn't infect 0 because they're already sick 
+5 didn't infect 29 because they're vaccinated 
+5 didn't infect 43 because they're vaccinated 
+5 didn't infect 4 because they're already sick 
+5 didn't infect 22 because they're vaccinated 
+5 didn't infect 19 because they're vaccinated 
+5 didn't infect 27 because they're vaccinated 
+5 didn't infect 29 because they're vaccinated 
+5 didn't infect 12 because they're vaccinated 
+5 didn't infect 54 because they're vaccinated 
+5 didn't infect 15 because they're vaccinated 
+5 didn't infect 22 because they're vaccinated 
+5 didn't infect 44 because they're vaccinated 
+5 didn't infect 53 because they're vaccinated 
+5 didn't infect 17 because they're vaccinated 
+5 didn't infect 43 because they're vaccinated 
+5 didn't infect 3 because they're already sick 
+5 didn't infect 47 because they're vaccinated 
+5 didn't infect 18 because they're vaccinated 
+5 didn't infect 14 because they're vaccinated 
+5 didn't infect 22 because they're vaccinated 
+5 didn't infect 12 because they're vaccinated 
+5 didn't infect 43 because they're vaccinated 
+5 didn't infect 49 because they're vaccinated 
+5 didn't infect 53 because they're vaccinated 
+5 didn't infect 6 because they're already sick 
+5 didn't infect 41 because they're vaccinated 
+5 didn't infect 50 because they're vaccinated 
+5 didn't infect 37 because they're vaccinated 
+5 didn't infect 8 because they're already sick 
+5 didn't infect 18 because they're vaccinated 
+5 didn't infect 26 because they're vaccinated 
+5 didn't infect 8 because they're already sick 
+5 didn't infect 23 because they're vaccinated 
+5 didn't infect 17 because they're vaccinated 
+5 didn't infect 16 because they're vaccinated 
+5 didn't infect 30 because they're vaccinated 
+5 didn't infect 18 because they're vaccinated 
+5 didn't infect 21 because they're vaccinated 
+6 didn't infect 29 because they're vaccinated 
+6 didn't infect 9 because they're already sick 
+6 didn't infect 14 because they're vaccinated 
+6 didn't infect 46 because they're vaccinated 
+6 didn't infect 25 because they're vaccinated 
+6 didn't infect 51 because they're vaccinated 
+6 didn't infect 5 because they're already sick 
+6 didn't infect 0 because they're already sick 
+6 didn't infect 7 because they're already sick 
+6 didn't infect 43 because they're vaccinated 
+6 didn't infect 16 because they're vaccinated 
+6 didn't infect 52 because they're vaccinated 
+6 didn't infect 23 because they're vaccinated 
+6 didn't infect 14 because they're vaccinated 
+6 didn't infect 39 because they're vaccinated 
+6 didn't infect 35 because they're vaccinated 
+6 didn't infect 39 because they're vaccinated 
+6 didn't infect 4 because they're already sick 
+6 didn't infect 29 because they're vaccinated 
+6 didn't infect 19 because they're vaccinated 
+6 didn't infect 7 because they're already sick 
+6 didn't infect 2 because they're already sick 
+6 didn't infect 31 because they're vaccinated 
+6 didn't infect 15 because they're vaccinated 
+6 didn't infect 8 because they're already sick 
+6 didn't infect 23 because they're vaccinated 
+6 didn't infect 47 because they're vaccinated 
+6 didn't infect 34 because they're vaccinated 
+6 didn't infect 47 because they're vaccinated 
+6 didn't infect 26 because they're vaccinated 
+6 didn't infect 53 because they're vaccinated 
+6 didn't infect 26 because they're vaccinated 
+6 didn't infect 17 because they're vaccinated 
+6 didn't infect 23 because they're vaccinated 
+6 didn't infect 28 because they're vaccinated 
+6 didn't infect 54 because they're vaccinated 
+6 didn't infect 43 because they're vaccinated 
+6 didn't infect 41 because they're vaccinated 
+6 didn't infect 25 because they're vaccinated 
+6 didn't infect 7 because they're already sick 
+6 didn't infect 52 because they're vaccinated 
+6 didn't infect 42 because they're vaccinated 
+6 didn't infect 40 because they're vaccinated 
+6 didn't infect 1 because they're already sick 
+6 didn't infect 21 because they're vaccinated 
+6 didn't infect 8 because they're already sick 
+6 didn't infect 13 because they're vaccinated 
+6 didn't infect 48 because they're vaccinated 
+6 didn't infect 37 because they're vaccinated 
+6 didn't infect 14 because they're vaccinated 
+6 didn't infect 9 because they're already sick 
+6 didn't infect 38 because they're vaccinated 
+6 didn't infect 54 because they're vaccinated 
+6 didn't infect 8 because they're already sick 
+6 didn't infect 51 because they're vaccinated 
+6 didn't infect 42 because they're vaccinated 
+6 didn't infect 8 because they're already sick 
+6 didn't infect 50 because they're vaccinated 
+6 didn't infect 37 because they're vaccinated 
+6 didn't infect 11 because they're vaccinated 
+6 didn't infect 8 because they're already sick 
+6 didn't infect 33 because they're vaccinated 
+6 didn't infect 4 because they're already sick 
+6 didn't infect 49 because they're vaccinated 
+6 didn't infect 37 because they're vaccinated 
+6 didn't infect 32 because they're vaccinated 
+6 didn't infect 39 because they're vaccinated 
+6 didn't infect 50 because they're vaccinated 
+6 didn't infect 42 because they're vaccinated 
+6 didn't infect 29 because they're vaccinated 
+6 didn't infect 1 because they're already sick 
+6 didn't infect 30 because they're vaccinated 
+6 didn't infect 27 because they're vaccinated 
+6 didn't infect 31 because they're vaccinated 
+6 didn't infect 28 because they're vaccinated 
+6 didn't infect 5 because they're already sick 
+6 didn't infect 9 because they're already sick 
+6 didn't infect 17 because they're vaccinated 
+6 didn't infect 37 because they're vaccinated 
+6 didn't infect 20 because they're vaccinated 
+6 didn't infect 38 because they're vaccinated 
+6 didn't infect 29 because they're vaccinated 
+6 didn't infect 27 because they're vaccinated 
+6 didn't infect 44 because they're vaccinated 
+6 didn't infect 41 because they're vaccinated 
+6 didn't infect 49 because they're vaccinated 
+6 didn't infect 13 because they're vaccinated 
+6 didn't infect 14 because they're vaccinated 
+6 didn't infect 52 because they're vaccinated 
+6 didn't infect 26 because they're vaccinated 
+6 didn't infect 20 because they're vaccinated 
+6 didn't infect 42 because they're vaccinated 
+6 didn't infect 9 because they're already sick 
+6 didn't infect 30 because they're vaccinated 
+6 didn't infect 53 because they're vaccinated 
+6 didn't infect 27 because they're vaccinated 
+6 didn't infect 47 because they're vaccinated 
+6 didn't infect 8 because they're already sick 
+6 didn't infect 37 because they're vaccinated 
+6 didn't infect 35 because they're vaccinated 
+7 didn't infect 7 because they're already sick 
+7 didn't infect 42 because they're vaccinated 
+7 didn't infect 27 because they're vaccinated 
+7 didn't infect 46 because they're vaccinated 
+7 didn't infect 18 because they're vaccinated 
+7 didn't infect 22 because they're vaccinated 
+7 didn't infect 32 because they're vaccinated 
+7 didn't infect 42 because they're vaccinated 
+7 didn't infect 54 because they're vaccinated 
+7 didn't infect 54 because they're vaccinated 
+7 didn't infect 7 because they're already sick 
+7 didn't infect 36 because they're vaccinated 
+7 didn't infect 27 because they're vaccinated 
+7 didn't infect 49 because they're vaccinated 
+7 didn't infect 39 because they're vaccinated 
+7 didn't infect 35 because they're vaccinated 
+7 didn't infect 42 because they're vaccinated 
+7 didn't infect 17 because they're vaccinated 
+7 didn't infect 17 because they're vaccinated 
+7 didn't infect 19 because they're vaccinated 
+7 didn't infect 22 because they're vaccinated 
+7 didn't infect 9 because they're already sick 
+7 didn't infect 25 because they're vaccinated 
+7 didn't infect 47 because they're vaccinated 
+7 didn't infect 1 because they're already sick 
+7 didn't infect 33 because they're vaccinated 
+7 didn't infect 26 because they're vaccinated 
+7 didn't infect 10 because they're vaccinated 
+7 didn't infect 46 because they're vaccinated 
+7 didn't infect 36 because they're vaccinated 
+7 didn't infect 3 because they're already sick 
+7 didn't infect 48 because they're vaccinated 
+7 didn't infect 43 because they're vaccinated 
+7 didn't infect 28 because they're vaccinated 
+7 didn't infect 31 because they're vaccinated 
+7 didn't infect 26 because they're vaccinated 
+7 didn't infect 48 because they're vaccinated 
+7 didn't infect 22 because they're vaccinated 
+7 didn't infect 18 because they're vaccinated 
+7 didn't infect 37 because they're vaccinated 
+7 didn't infect 42 because they're vaccinated 
+7 didn't infect 14 because they're vaccinated 
+7 didn't infect 38 because they're vaccinated 
+7 didn't infect 13 because they're vaccinated 
+7 didn't infect 13 because they're vaccinated 
+7 didn't infect 48 because they're vaccinated 
+7 didn't infect 20 because they're vaccinated 
+7 didn't infect 31 because they're vaccinated 
+7 didn't infect 11 because they're vaccinated 
+7 didn't infect 34 because they're vaccinated 
+7 didn't infect 32 because they're vaccinated 
+7 didn't infect 42 because they're vaccinated 
+7 didn't infect 4 because they're already sick 
+7 didn't infect 47 because they're vaccinated 
+7 didn't infect 1 because they're already sick 
+7 didn't infect 4 because they're already sick 
+7 didn't infect 36 because they're vaccinated 
+7 didn't infect 25 because they're vaccinated 
+7 didn't infect 26 because they're vaccinated 
+7 didn't infect 25 because they're vaccinated 
+7 didn't infect 20 because they're vaccinated 
+7 didn't infect 39 because they're vaccinated 
+7 didn't infect 44 because they're vaccinated 
+7 didn't infect 5 because they're already sick 
+7 didn't infect 6 because they're already sick 
+7 didn't infect 37 because they're vaccinated 
+7 didn't infect 5 because they're already sick 
+7 didn't infect 19 because they're vaccinated 
+7 didn't infect 14 because they're vaccinated 
+7 didn't infect 10 because they're vaccinated 
+7 didn't infect 40 because they're vaccinated 
+7 didn't infect 32 because they're vaccinated 
+7 didn't infect 49 because they're vaccinated 
+7 didn't infect 46 because they're vaccinated 
+7 didn't infect 41 because they're vaccinated 
+7 didn't infect 15 because they're vaccinated 
+7 didn't infect 16 because they're vaccinated 
+7 didn't infect 38 because they're vaccinated 
+7 didn't infect 48 because they're vaccinated 
+7 didn't infect 11 because they're vaccinated 
+7 didn't infect 40 because they're vaccinated 
+7 didn't infect 48 because they're vaccinated 
+7 didn't infect 37 because they're vaccinated 
+7 didn't infect 36 because they're vaccinated 
+7 didn't infect 39 because they're vaccinated 
+7 didn't infect 40 because they're vaccinated 
+7 didn't infect 28 because they're vaccinated 
+7 didn't infect 28 because they're vaccinated 
+7 didn't infect 50 because they're vaccinated 
+7 didn't infect 3 because they're already sick 
+7 didn't infect 4 because they're already sick 
+7 didn't infect 28 because they're vaccinated 
+7 didn't infect 23 because they're vaccinated 
+7 didn't infect 4 because they're already sick 
+7 didn't infect 54 because they're vaccinated 
+7 didn't infect 38 because they're vaccinated 
+7 didn't infect 29 because they're vaccinated 
+7 didn't infect 50 because they're vaccinated 
+7 didn't infect 2 because they're already sick 
+7 didn't infect 51 because they're vaccinated 
+8 didn't infect 12 because they're vaccinated 
+8 didn't infect 30 because they're vaccinated 
+8 didn't infect 3 because they're already sick 
+8 didn't infect 51 because they're vaccinated 
+8 didn't infect 21 because they're vaccinated 
+8 didn't infect 5 because they're already sick 
+8 didn't infect 11 because they're vaccinated 
+8 didn't infect 45 because they're vaccinated 
+8 didn't infect 28 because they're vaccinated 
+8 didn't infect 39 because they're vaccinated 
+8 didn't infect 23 because they're vaccinated 
+8 didn't infect 24 because they're vaccinated 
+8 didn't infect 21 because they're vaccinated 
+8 didn't infect 3 because they're already sick 
+8 didn't infect 41 because they're vaccinated 
+8 didn't infect 21 because they're vaccinated 
+8 didn't infect 43 because they're vaccinated 
+8 didn't infect 16 because they're vaccinated 
+8 didn't infect 42 because they're vaccinated 
+8 didn't infect 38 because they're vaccinated 
+8 didn't infect 21 because they're vaccinated 
+8 didn't infect 42 because they're vaccinated 
+8 didn't infect 22 because they're vaccinated 
+8 didn't infect 41 because they're vaccinated 
+8 didn't infect 25 because they're vaccinated 
+8 didn't infect 45 because they're vaccinated 
+8 didn't infect 19 because they're vaccinated 
+8 didn't infect 41 because they're vaccinated 
+8 didn't infect 52 because they're vaccinated 
+8 didn't infect 44 because they're vaccinated 
+8 didn't infect 47 because they're vaccinated 
+8 didn't infect 33 because they're vaccinated 
+8 didn't infect 42 because they're vaccinated 
+8 didn't infect 23 because they're vaccinated 
+8 didn't infect 19 because they're vaccinated 
+8 didn't infect 13 because they're vaccinated 
+8 didn't infect 49 because they're vaccinated 
+8 didn't infect 14 because they're vaccinated 
+8 didn't infect 9 because they're already sick 
+8 didn't infect 54 because they're vaccinated 
+8 didn't infect 32 because they're vaccinated 
+8 didn't infect 53 because they're vaccinated 
+8 didn't infect 33 because they're vaccinated 
+8 didn't infect 21 because they're vaccinated 
+8 didn't infect 39 because they're vaccinated 
+8 didn't infect 24 because they're vaccinated 
+8 didn't infect 11 because they're vaccinated 
+8 didn't infect 49 because they're vaccinated 
+8 didn't infect 10 because they're vaccinated 
+8 didn't infect 2 because they're already sick 
+8 didn't infect 43 because they're vaccinated 
+8 didn't infect 28 because they're vaccinated 
+8 didn't infect 48 because they're vaccinated 
+8 didn't infect 28 because they're vaccinated 
+8 didn't infect 15 because they're vaccinated 
+8 didn't infect 51 because they're vaccinated 
+8 didn't infect 53 because they're vaccinated 
+8 didn't infect 43 because they're vaccinated 
+8 didn't infect 28 because they're vaccinated 
+8 didn't infect 18 because they're vaccinated 
+8 didn't infect 32 because they're vaccinated 
+8 didn't infect 10 because they're vaccinated 
+8 didn't infect 51 because they're vaccinated 
+8 didn't infect 16 because they're vaccinated 
+8 didn't infect 30 because they're vaccinated 
+8 didn't infect 35 because they're vaccinated 
+8 didn't infect 45 because they're vaccinated 
+8 didn't infect 54 because they're vaccinated 
+8 didn't infect 5 because they're already sick 
+8 didn't infect 17 because they're vaccinated 
+8 didn't infect 32 because they're vaccinated 
+8 didn't infect 27 because they're vaccinated 
+8 didn't infect 14 because they're vaccinated 
+8 didn't infect 22 because they're vaccinated 
+8 didn't infect 26 because they're vaccinated 
+8 didn't infect 32 because they're vaccinated 
+8 didn't infect 24 because they're vaccinated 
+8 didn't infect 23 because they're vaccinated 
+8 didn't infect 20 because they're vaccinated 
+8 didn't infect 53 because they're vaccinated 
+8 didn't infect 21 because they're vaccinated 
+8 didn't infect 8 because they're already sick 
+8 didn't infect 53 because they're vaccinated 
+8 didn't infect 53 because they're vaccinated 
+8 didn't infect 45 because they're vaccinated 
+8 didn't infect 39 because they're vaccinated 
+8 didn't infect 5 because they're already sick 
+8 didn't infect 13 because they're vaccinated 
+8 didn't infect 35 because they're vaccinated 
+8 didn't infect 38 because they're vaccinated 
+8 didn't infect 7 because they're already sick 
+8 didn't infect 15 because they're vaccinated 
+8 didn't infect 3 because they're already sick 
+8 didn't infect 40 because they're vaccinated 
+8 didn't infect 29 because they're vaccinated 
+8 didn't infect 53 because they're vaccinated 
+8 didn't infect 38 because they're vaccinated 
+8 didn't infect 40 because they're vaccinated 
+8 didn't infect 15 because they're vaccinated 
+8 didn't infect 18 because they're vaccinated 
+9 didn't infect 39 because they're vaccinated 
+9 didn't infect 36 because they're vaccinated 
+9 didn't infect 42 because they're vaccinated 
+9 didn't infect 33 because they're vaccinated 
+9 didn't infect 4 because they're already sick 
+9 didn't infect 34 because they're vaccinated 
+9 didn't infect 32 because they're vaccinated 
+9 didn't infect 24 because they're vaccinated 
+9 didn't infect 2 because they're already sick 
+9 didn't infect 23 because they're vaccinated 
+9 didn't infect 1 because they're already sick 
+9 didn't infect 4 because they're already sick 
+9 didn't infect 46 because they're vaccinated 
+9 didn't infect 6 because they're already sick 
+9 didn't infect 47 because they're vaccinated 
+9 didn't infect 8 because they're already sick 
+9 didn't infect 34 because they're vaccinated 
+9 didn't infect 41 because they're vaccinated 
+9 didn't infect 49 because they're vaccinated 
+9 didn't infect 44 because they're vaccinated 
+9 didn't infect 11 because they're vaccinated 
+9 didn't infect 4 because they're already sick 
+9 didn't infect 29 because they're vaccinated 
+9 didn't infect 12 because they're vaccinated 
+9 didn't infect 12 because they're vaccinated 
+9 didn't infect 20 because they're vaccinated 
+9 didn't infect 32 because they're vaccinated 
+9 didn't infect 52 because they're vaccinated 
+9 didn't infect 16 because they're vaccinated 
+9 didn't infect 41 because they're vaccinated 
+9 didn't infect 22 because they're vaccinated 
+9 didn't infect 3 because they're already sick 
+9 didn't infect 21 because they're vaccinated 
+9 didn't infect 51 because they're vaccinated 
+9 didn't infect 25 because they're vaccinated 
+9 didn't infect 24 because they're vaccinated 
+9 didn't infect 11 because they're vaccinated 
+9 didn't infect 31 because they're vaccinated 
+9 didn't infect 51 because they're vaccinated 
+9 didn't infect 51 because they're vaccinated 
+9 didn't infect 27 because they're vaccinated 
+9 didn't infect 38 because they're vaccinated 
+9 didn't infect 11 because they're vaccinated 
+9 didn't infect 20 because they're vaccinated 
+9 didn't infect 20 because they're vaccinated 
+9 didn't infect 19 because they're vaccinated 
+9 didn't infect 45 because they're vaccinated 
+9 didn't infect 44 because they're vaccinated 
+9 didn't infect 28 because they're vaccinated 
+9 didn't infect 22 because they're vaccinated 
+9 didn't infect 27 because they're vaccinated 
+9 didn't infect 50 because they're vaccinated 
+9 didn't infect 4 because they're already sick 
+9 didn't infect 25 because they're vaccinated 
+9 didn't infect 51 because they're vaccinated 
+9 didn't infect 10 because they're vaccinated 
+9 didn't infect 9 because they're already sick 
+9 didn't infect 43 because they're vaccinated 
+9 didn't infect 2 because they're already sick 
+9 didn't infect 15 because they're vaccinated 
+9 didn't infect 23 because they're vaccinated 
+9 didn't infect 36 because they're vaccinated 
+9 didn't infect 9 because they're already sick 
+9 didn't infect 23 because they're vaccinated 
+9 didn't infect 48 because they're vaccinated 
+9 didn't infect 8 because they're already sick 
+9 didn't infect 25 because they're vaccinated 
+9 didn't infect 17 because they're vaccinated 
+9 didn't infect 7 because they're already sick 
+9 didn't infect 11 because they're vaccinated 
+9 didn't infect 24 because they're vaccinated 
+9 didn't infect 7 because they're already sick 
+9 didn't infect 16 because they're vaccinated 
+9 didn't infect 13 because they're vaccinated 
+9 didn't infect 18 because they're vaccinated 
+9 didn't infect 31 because they're vaccinated 
+9 didn't infect 8 because they're already sick 
+9 didn't infect 28 because they're vaccinated 
+9 didn't infect 45 because they're vaccinated 
+9 didn't infect 5 because they're already sick 
+9 didn't infect 54 because they're vaccinated 
+9 didn't infect 42 because they're vaccinated 
+9 didn't infect 4 because they're already sick 
+9 didn't infect 18 because they're vaccinated 
+9 didn't infect 54 because they're vaccinated 
+9 didn't infect 45 because they're vaccinated 
+9 didn't infect 40 because they're vaccinated 
+9 didn't infect 23 because they're vaccinated 
+9 didn't infect 7 because they're already sick 
+9 didn't infect 50 because they're vaccinated 
+9 didn't infect 50 because they're vaccinated 
+9 didn't infect 23 because they're vaccinated 
+9 didn't infect 23 because they're vaccinated 
+9 didn't infect 35 because they're vaccinated 
+9 didn't infect 5 because they're already sick 
+9 didn't infect 25 because they're vaccinated 
+9 didn't infect 46 because they're vaccinated 
+9 didn't infect 26 because they're vaccinated 
+9 didn't infect 52 because they're vaccinated 
+9 didn't infect 8 because they're already sick 
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 died from the infection
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+0 were infected with 0 overall were infected 
+1 were killed with 1 total dead 
+Time step 0 ended, beginning time step 1
+
