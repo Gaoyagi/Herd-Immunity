@@ -5,24 +5,23 @@ from  virus import  Virus
 class Logger(object):
 
     def __init__(self, file_name):
-        self.file_name = str(file_name)+".txt"
+        self.file_name = str(file_name)
     
     #writes the specific parameters of the simulation to the first line of the file.
     #args: size of population(int), percentage vaccinated(float), virus object
     #return none
     def write_metadata(self, pop_size, vacc_percentage, virus):
         # TODO: Finish this method. This line of metadata should be tab-delimited
-        # it should create the text file that we will store all logs in.
+        # it should create the text log that we will store all logs in.
         # TIP: Use 'w' mode when you open the file. For all other methods, use
         # the 'a' mode to append a new log to the end, since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        file = open(self.file_name, 'w')
-        file.write(f"""population size:{pop_size}, vaccinated percent:{vacc_percentage}%, 
-                    virus: {virus.name}, reprocution rate:{virus.repro_rate}%, mortality rate:{virus.mortality_rate}      \n""")
-        file.close()
+        log = open(self.file_name, 'w')
+        log.write(f"population size: {pop_size}, vaccinated percent: {vacc_percentage}%, virus: {virus.name}, reprocution rate:{virus.repro_rate}%, mortality rate: {virus.mortality_rate}\n")
+        log.close()
 
-    #writes to file every interaction a sick person has during each time step.
+    #writes to log every interaction a sick person has during each time step.
     #args: current person(Person), random person(Person)
     #return: none
     def log_interaction(self, person, random_person, infected, did_infect):
@@ -36,28 +35,28 @@ class Logger(object):
         # along with whether they are sick or vaccinated when they interact to determine
         # exactly what happened in the interaction and create a String, and write to your logfile.
        
-        file = open(self.file_name, 'a')
+        log = open(self.file_name, 'a')
 
         #edge cases are checked first
-        if not random_person.vaccinated:
-            if random_person.infection == None:
-                if not did_infect:
-                    file.write(f"{person.id} didn't infect {random_person.id}")
-                else:
-                    file.write(f"{person.id} infected {random_person.id} with {person.infection.name}")
+        if not random_person.is_vaccinated:                                               #check if person is vaccinated
+            if random_person.infection == None and random_person._id not in infected:     #check if person is already sick
+                if did_infect:                                                              #check if the infection number was higher
+                    log.write(f"{person._id} infected {random_person._id} with {person.infection.name} \n")
                     infected.append(random_person._id)
+                else:
+                     log.write(f"{person._id} didn't infect {random_person._id} \n")
             else:
-                file.write(f"{person.id} didn't infect {random_person.id} because they are already sick")
+                log.write(f"{person._id} didn't infect {random_person._id} because they're already sick \n")
         else:
-            file.write(f"{person.id} didn't infect {random_person.id} because they are vaccinated")
+            log.write(f"{person._id} didn't infect {random_person._id} because they're vaccinated \n")
     
-        file.close() 
+        log.close() 
 
         
-    #writes to file the results of every call of a Person object's .resolve_infection() method.
+    #writes to log the results of every call of a Person object's .resolve_infection() method.
     #args: current person(Person), a bool???? probably not  necessary
     #return: none? might change to a bool later
-    def log_infection_survival(self, person, did_die_from_infection):
+    def log_infection_survival(self, person):
         ''' 
         The format of the log should be:
             "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
@@ -66,14 +65,18 @@ class Logger(object):
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
         living = person.resolve_infection()
-        file = open(self.file_name, 'a')
+        log = open(self.file_name, 'a')
         if living:
-            file.write(f"{person._id} survived the infection and is now vaccinated")
+            log.write(f"{person._id} survived the infection and is now vaccinated\n")
+            log.close()
+            return True          
         else:
-            file.write(f"{person._id} died from the infection")
-        file.close()
+            log.write(f"{person._id} died from the infection\n")
+            log.close()
+            return False
+        
 
-    #write to file the overall summary of the statistics of a time step
+    #write to log the overall summary of the statistics of a time step
     #args: speicifc time step(int)
     #return: none
     def log_time_step(self, time_step_number, currInfect, infect, currDeath, death):
@@ -94,9 +97,9 @@ class Logger(object):
         # TODO: Finish this method. This method should log when a time step ends, and a
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
-        file = open(self.file_name, 'a')
-        file.write(f"Time step {time_step_number} ended, beginning {time_step_number + 1}\n")
-        file.write(f"{currInfect} were infected with {infect} total infected \n")
-        file.write(f"{currDeath} were killed with {death} total dead \n")
-        file.close
+        log = open(self.file_name, 'a')
+        log.write(f"Time step {time_step_number} ended, beginning time step {time_step_number + 1}\n")
+        log.write(f"{currInfect} were infected with {infect} overall were infected \n")
+        log.write(f"{currDeath} were killed with {death} total dead \n")
+        log.close()
         

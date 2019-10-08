@@ -35,6 +35,7 @@ class Person(object):
             return True
         else:
             self.infection = None
+            self.is_alive = False
             return False
             
 
