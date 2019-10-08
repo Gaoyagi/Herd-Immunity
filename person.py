@@ -31,6 +31,7 @@ class Person(object):
         killNum = random.uniform(0,1)
         if killNum > self.infection.mortality_rate:
             self.is_vaccinated = True
+            self.infection = None
             return True
         else:
             self.infection = None

@@ -1,6 +1,7 @@
 from person import Person
 from  virus import  Virus
- ''' Utility class responsible for logging all interactions during the simulation. '''
+
+''' Utility class responsible for logging all interactions during the simulation. '''
 class Logger(object):
 
     def __init__(self, file_name):
@@ -41,7 +42,7 @@ class Logger(object):
         if not random_person.vaccinated:
             if random_person.infection == None:
                 if not did_infect:
-                    file.write(f"{person.id} didn't infect {random_person.id}")"
+                    file.write(f"{person.id} didn't infect {random_person.id}")
                 else:
                     file.write(f"{person.id} infected {random_person.id} with {person.infection.name}")
                     infected.append(random_person._id)
@@ -75,7 +76,7 @@ class Logger(object):
     #write to file the overall summary of the statistics of a time step
     #args: speicifc time step(int)
     #return: none
-    def log_time_step(self, time_step_number):
+    def log_time_step(self, time_step_number, currInfect, infect, currDeath, death):
         ''' STRETCH CHALLENGE DETAILS:
 
         If you choose to extend this method, the format of the summary statistics logged
@@ -93,4 +94,9 @@ class Logger(object):
         # TODO: Finish this method. This method should log when a time step ends, and a
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
+        file = open(self.file_name, 'a')
+        file.write(f"Time step {time_step_number} ended, beginning {time_step_number + 1}\n")
+        file.write(f"{currInfect} were infected with {infect} total infected \n")
+        file.write(f"{currDeath} were killed with {death} total dead \n")
+        file.close
         
