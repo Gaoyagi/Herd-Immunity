@@ -31,7 +31,7 @@ class Simulation(object):
         self.file_name = "{}simulation_pop_{}_vp_{}_infected_{}.txt".format(virus.name, pop_size, vacc_percentage, initial_infected)
         self.logger = Logger(self.file_name)
  
-         #class objects
+        #class objects
         self.virus = virus  #Virus object
 
         #ints
@@ -182,13 +182,14 @@ class Simulation(object):
 
         success = None
         infect = random.uniform(0,1)
-        if random_person.is_vaccinated or random_person.infection != None or random_person._id in self.newly_infected or infect < person.infection.repro_rate:
+        if random_person.is_vaccinated or random_person.infection != None or random_person._id in self.newly_infected or infect > person.infection.repro_rate:
             success = False
         else:
             success = True
+            self.newly_infected.append(random_person._id)
             self.curr_infected+=1
             self.total_infected+=1
-        self.logger.log_interaction(person, random_person, self.newly_infected, success)
+        self.logger.log_interaction(person, random_person, success)
             
         
     #iterates through ther persons list and infects whoever's id is on the newly infected list
@@ -206,6 +207,7 @@ class Simulation(object):
 
 
 if __name__ == "__main__":
+    #input tests in format of: name reproRate mortalityRate popSize VaccPercent initInfect
     params = sys.argv[1:]
     virus_name = str(params[0])
     repro_num = float(params[1])
@@ -220,10 +222,7 @@ if __name__ == "__main__":
         initial_infected = 1
 
     virus = Virus(virus_name, repro_num, mortality_rate)
-    sim = Simulation(pop_size, vacc_percentage, virus, 4)
+    sim = Simulation(pop_size, vacc_percentage, virus, initial_infected)
 
     sim.run() 
 
-def test_create_population():
-    virus = Virus("memes", 0.69, 0.42)
-    sim = Simulation(10,)

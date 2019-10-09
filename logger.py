@@ -18,13 +18,13 @@ class Logger(object):
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
         log = open(self.file_name, 'w')
-        log.write(f"population size: {pop_size}, vaccinated percent: {vacc_percentage}%, virus: {virus.name}, reprocution rate:{virus.repro_rate}%, mortality rate: {virus.mortality_rate}\n")
+        log.write(f"population size: {pop_size}, vaccinated percent: {vacc_percentage*100}%, virus: {virus.name}, reprocution rate:{virus.repro_rate*100}%, mortality rate: {virus.mortality_rate*100}%\n")
         log.close()
 
     #writes to log every interaction a sick person has during each time step.
     #args: current person(Person), random person(Person)
     #return: none
-    def log_interaction(self, person, random_person, infected, did_infect):
+    def log_interaction(self, person, random_person, did_infect):
         '''
         The format of the log should be: "{person.ID} infects {random_person.ID} \n"
         or the other edge cases:
@@ -38,11 +38,10 @@ class Logger(object):
         log = open(self.file_name, 'a')
 
         #edge cases are checked first
-        if not random_person.is_vaccinated:                                               #check if person is vaccinated
-            if random_person.infection == None and random_person._id not in infected:     #check if person is already sick
-                if did_infect:                                                              #check if the infection number was higher
+        if not random_person.is_vaccinated:         #check if person is vaccinated
+            if random_person.infection == None:     #check if person is already sick
+                if did_infect:                      #check if the infection number was higher
                     log.write(f"{person._id} infected {random_person._id} with {person.infection.name} \n")
-                    infected.append(random_person._id)
                 else:
                      log.write(f"{person._id} didn't infect {random_person._id} \n")
             else:
